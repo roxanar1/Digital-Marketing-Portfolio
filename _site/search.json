@@ -1,213 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi, I’m Roxana Rodriguez!",
-    "section": "",
-    "text": "I’m a digital marketing professional who blends creativity with data-driven strategy to turn insights into impactful results. My work focuses on analytics, SEO, and user behavior to create meaningful online experiences that drive engagement and growth"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Hi, I’m Roxana Rodriguez!",
-    "section": "About Me",
-    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution]."
-  },
-  {
-    "objectID": "index.html#whats-in-this-site",
-    "href": "index.html#whats-in-this-site",
-    "title": "Home",
-    "section": "",
-    "text": "Digital Marketing\nMarketing Analytics\nResume"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Home",
-    "section": "",
-    "text": "LinkedIn: Add your LinkedIn\nEmail: yourname@email.com\n\n\n\n\n\nI’m a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights."
-  },
-  {
     "objectID": "digital-marketing.html",
     "href": "digital-marketing.html",
     "title": "Digital Marketing",
     "section": "",
     "text": "As part of a collaborative team project with the Trauma Resource Institute. The project focused on developing a Google Ads marketing campaign to support the Community Resiliency Model (CRM), Trauma Resiliency Model (TRM), and donation initiatives. The work involved creating a cohesive ad strategy that combined ad design, keyword research, and optimized landing page content to attract and engage potential program participants.\n\n\n\n\nIncrease TRM & CRM program awareness among targeted audiences.\nDrive high-quality traffic to the landing page by leveraging the Google Ad Grants. program for nonprofit search advertising.\nImprove conversion rates through strategic ad copy and landing page design.\n\n\n\n\n\nConducted competitor and SWOT analysis to evaluate positioning and identify strategic opportunities.\nCreated display ad designs for future advertising campaigns.\nDesigned the CRM program landing page with a user-friendly layout and clear messaging to effectively engage and connect with the target audience.\nConducted keyword research for the CRM program’s search ads campaign by identifying high-intent keywords to improve targeting and attract relevant users."
-  },
-  {
-    "objectID": "digital-marketing.html#areas-of-focus",
-    "href": "digital-marketing.html#areas-of-focus",
-    "title": "Digital Marketing",
-    "section": "",
-    "text": "Content strategy\nPaid media\nSEO\nEmail marketing\nSocial media campaigns"
-  },
-  {
-    "objectID": "digital-marketing.html#sample-project",
-    "href": "digital-marketing.html#sample-project",
-    "title": "Digital Marketing",
-    "section": "",
-    "text": "Describe: - the goal - your role - tools used - results"
-  },
-  {
-    "objectID": "marketing-analytics.html",
-    "href": "marketing-analytics.html",
-    "title": "Marketing Analytics",
-    "section": "",
-    "text": "This project was in collaboration with NCMA-SGV, where website performance using Google Analytics 4 data was analyzed. The dataset was exported into BigQuery, where it was queried to identify user behavior patterns, traffic sources, and engagement metrics. The project also involved exploratory data analysis in R  and an interactive Looker Studio dashboard to visualize key insights. The final deliverable provided stakeholders with a clear view of website performance across dimensions such as traffic channels, device types, geographic distribution, and engagement trends over time.\n\n\n\n\nAnalyze GA4 data to identify meaningful insights about user behavior, engagement trends, and traffic sources in order to better understand overall website performance.\nBuild an efficient data workflow using BigQuery and r programming that enables querying, transformation, and reporting of key metrics\nDesign an interactive dashboard that allows stakeholders to easily evaluate KPIs and make informed data-driven decisions.\n\n\n\n\n\nConducted exploratory and statistical analysis in R by connecting to BigQuery and using packages like bigrquery, DBI, dplyr, and ggplot2 to explore the data and identify patterns and trends over time.\nBuilt an interactive Looker Studio dashboard to display key metrics like sessions, engagement rate, traffic sources in a visually clear format."
-  },
-  {
-    "objectID": "marketing-analytics.html#skills",
-    "href": "marketing-analytics.html#skills",
-    "title": "Marketing Analytics",
-    "section": "",
-    "text": "KPI reporting\nDashboard building\nCampaign analysis\nA/B testing\nFunnel analysis"
-  },
-  {
-    "objectID": "marketing-analytics.html#sample-project",
-    "href": "marketing-analytics.html#sample-project",
-    "title": "Marketing Analytics",
-    "section": "",
-    "text": "Describe: - the business question - the data - the tools - the insights"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "résumé",
-    "section": "",
-    "text": "You can view a PDF version of my résumé here"
-  },
-  {
-    "objectID": "resume.html#summary",
-    "href": "resume.html#summary",
-    "title": "Resume",
-    "section": "",
-    "text": "Write a short professional summary here."
-  },
-  {
-    "objectID": "resume.html#experience",
-    "href": "resume.html#experience",
-    "title": "résumé",
-    "section": "Experience",
-    "text": "Experience\nAltaMed, Data Management Coordinator\n[2025 - Present]\n\nEntered and managed community health assessment data to ensure accuracy and readiness for analysis.\nPerformed data cleaning and transformation to standardize datasets, resolve inconsistencies, and improve overall data quality.\nAnalyzed outreach and assessment data to identify trends, patterns, and insights related to community health needs and program effectiveness.\nDeveloped data visualizations and summary reports to communicate key findings to internal teams and support decision-making.\n\nRoxana Rodriguez, Freelance Graphic Designer\n[2022 - Present]\n\nDesigned and developed SEO-optimized websites that increased organic traffic, user engagement, and conversion rates.\nBuilt strategic brand identities aligned with target audiences to enhance brand awareness and market positioning.\nCollaborated with clients to translate marketing goals into data-driven design solutions that support campaign performance.\nCreated digital and print marketing materials, including social media assets and promotional content to drive audience engagement and brand consistency across marketing channels."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "résumé",
-    "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\nDegree\nYear\nInstitution\n\n\n\n\nM.S. Digital Marketing and Analytics\nAugust 2026\nCalifornia Polytechnic University, Pomona\n\n\nB.A. Psychology\nDecember 2019\nCalifornia State University, Northridge"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "résumé",
-    "section": "SKILLS",
-    "text": "SKILLS\nSkills: R programming, SQL, Tableau, Google Analytics, Google Ads, SEO, Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Figma, WordPress.\nLanguages: English, Spanish."
-  },
-  {
-    "objectID": "index.html#about-me-1",
-    "href": "index.html#about-me-1",
-    "title": "Home",
-    "section": "",
-    "text": "I hold a [Your Degree or Current Program] from [Your Institution]."
-  },
-  {
-    "objectID": "index.html#lets-connect",
-    "href": "index.html#lets-connect",
-    "title": "Hi, I’m Roxana Rodriguez!",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect\nYou can email me"
-  },
-  {
-    "objectID": "digital-marketing.html#project-1",
-    "href": "digital-marketing.html#project-1",
-    "title": "Digital Marketing",
-    "section": "project 1",
-    "text": "project 1\n\nOverview\n\n\nThe Problem\n\n\nThe Goal\n\n\nMy Role & Resposibilities\n\n\nThe Outcome"
-  },
-  {
-    "objectID": "digital-marketing.html#project-2",
-    "href": "digital-marketing.html#project-2",
-    "title": "Digital Marketing",
-    "section": "Project 2",
-    "text": "Project 2\n\nOverview\n\n\nThe Problem\n\n\nThe Goal\n\n\nMy Role & Resposibilities\n\n\nThe Outcome"
-  },
-  {
-    "objectID": "marketing-analytics.html#project-1",
-    "href": "marketing-analytics.html#project-1",
-    "title": "Marketing Analytics",
-    "section": "project 1",
-    "text": "project 1\n\nOverview\n\n\nThe Problem\n\n\nThe Goal\n\n\nMy Role & Resposibilities\n\n\nThe Outcome"
-  },
-  {
-    "objectID": "marketing-analytics.html#project-2",
-    "href": "marketing-analytics.html#project-2",
-    "title": "Marketing Analytics",
-    "section": "Project 2",
-    "text": "Project 2\n\nOverview\n\n\nThe Problem\n\n\nThe Goal\n\n\nMy Role & Resposibilities\n\n\nThe Outcome"
-  },
-  {
-    "objectID": "digital-marketing.html#revealjs-presentation",
-    "href": "digital-marketing.html#revealjs-presentation",
-    "title": "Digital Marketing",
-    "section": "Revealjs Presentation",
-    "text": "Revealjs Presentation"
-  },
-  {
-    "objectID": "digital-marketing.html#ga4-traffic-data",
-    "href": "digital-marketing.html#ga4-traffic-data",
-    "title": "Digital Marketing",
-    "section": "GA4 Traffic Data",
-    "text": "GA4 Traffic Data"
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Hi, I’m Roxana Rodriguez!",
-    "section": "Skills",
-    "text": "Skills\n\n\nR Programming\n\n\nSQL\n\n\nSEO\n\n\nGoogle Anlytics\n\n\nInDesign\n\n\nIllustrator\n\n\nPhotoshop\n\n\nPremiere Pro\n\n\nFigma"
-  },
-  {
-    "objectID": "index.html#technical-skills",
-    "href": "index.html#technical-skills",
-    "title": "Hi, I’m Roxana Rodriguez!",
-    "section": "Technical Skills",
-    "text": "Technical Skills\n\n\nR Programming\n\n\nTableau\n\n\nSEO\n\n\nGoogle Anlytics\n\n\nInDesign\n\n\nIllustrator\n\n\nPhotoshop\n\n\nPremiere Pro\n\n\nFigma"
-  },
-  {
-    "objectID": "index.html#skills-1",
-    "href": "index.html#skills-1",
-    "title": "Hi, I’m Roxana Rodriguez!",
-    "section": "Skills",
-    "text": "Skills\n\n\nUser Research\n\n\nWireframing\n\n\nPrototyping\n\n\nUsability Testing\n\n\nInformation Architecture\n\n\nInteraction Design"
-  },
-  {
-    "objectID": "index.html#skills-2",
-    "href": "index.html#skills-2",
-    "title": "Hi, I’m Roxana Rodriguez!",
-    "section": "Skills",
-    "text": "Skills\n\n\nUser Research\n\n\nWireframing\n\n\nPrototyping\n\n\nUsability Testing\n\n\nInformation Architecture\n\n\nInteraction Design\n\n\nVisual Design\n\n\nDesign Systems\n\n\nFigma & Adobe XD"
-  },
-  {
-    "objectID": "marketing-analytics.html#revealjs-presentation",
-    "href": "marketing-analytics.html#revealjs-presentation",
-    "title": "Marketing Analytics",
-    "section": "Revealjs Presentation",
-    "text": "Revealjs Presentation"
-  },
-  {
-    "objectID": "marketing-analytics.html#ga4-traffic-data",
-    "href": "marketing-analytics.html#ga4-traffic-data",
-    "title": "Marketing Analytics",
-    "section": "GA4 Traffic Data",
-    "text": "GA4 Traffic Data"
-  },
-  {
-    "objectID": "resume.html#certifications",
-    "href": "resume.html#certifications",
-    "title": "résumé",
-    "section": "Certifications",
-    "text": "Certifications\nGlendale Community College\nGraphic Design Certificate, December 2022.\nGoogle\nGoogle Analytics Certificate, February 2026.\nHubSpot\nEmail Marketing Certificate, October 2024.\nGoogle\nUX Design Certificate, September 2022."
   },
   {
     "objectID": "digital-marketing.html#trauma-resource-institute",
@@ -224,11 +21,81 @@
     "text": "Garcia Research\n\n\nProject Overview:\nThis project was completed as part of the culminating experience project in collaboration with Garcia Research. The project focused on the Marketing Access Score (MAS), a framework that evaluates how well B2C websites support Spanish language accessibility. The project involved designing a website that clearly communicates the value of the MAS research and promote it to organizations interested in improving their DEI efforts.\n\n\nThe Goals:\n\nEvaluate B2C websites for Spanish-language accessibility by scoring them using the MAS framework and create industry reports to communicate findings.\nIncrease awareness of the MAS framework among B2C organizations through the dedicated website and a social media content strategy.\nDesign a website that attracts and informs stakeholders who are looking to make their marketing more inclusive.\n\n\n\nMy Role & Responsibilities:\n\nConducted competitor analysis to understand how similar market research companies position their inclusive marketing services and benchmarking scoring methods.\nDesigned the website experience by developing a user-friendly structure that attracts marketing teams and raises awareness of the MAS as a service for improving B2C Spanish-language accessibility.\nEvaluated website performance to identify opportunities for improvement in user engagement and conversion optimization."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Roxana Rodriguez!",
+    "section": "",
+    "text": "I’m a digital marketing professional who blends creativity with data-driven strategy to turn insights into impactful results. My work focuses on analytics, SEO, and user behavior to create meaningful online experiences that drive engagement and growth"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Hi, I’m Roxana Rodriguez!",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\n\nR Programming\n\n\nTableau\n\n\nSEO\n\n\nGoogle Anlytics\n\n\nInDesign\n\n\nIllustrator\n\n\nPhotoshop\n\n\nPremiere Pro\n\n\nFigma"
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Roxana Rodriguez!",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can email me"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "résumé",
+    "section": "",
+    "text": "You can view a PDF version of my résumé here"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "résumé",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nDegree\nYear\nInstitution\n\n\n\n\nM.S. Digital Marketing and Analytics\nAugust 2026\nCalifornia Polytechnic University, Pomona\n\n\nB.A. Psychology\nDecember 2019\nCalifornia State University, Northridge"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "résumé",
+    "section": "Experience",
+    "text": "Experience\nAltaMed, Data Management Coordinator\n[2025 - Present]\n\nEntered and managed community health assessment data to ensure accuracy and readiness for analysis.\nPerformed data cleaning and transformation to standardize datasets, resolve inconsistencies, and improve overall data quality.\nAnalyzed outreach and assessment data to identify trends, patterns, and insights related to community health needs and program effectiveness.\nDeveloped data visualizations and summary reports to communicate key findings to internal teams and support decision-making.\n\nRoxana Rodriguez, Freelance Graphic Designer\n[2022 - Present]\n\nDesigned and developed SEO-optimized websites that increased organic traffic, user engagement, and conversion rates.\nBuilt strategic brand identities aligned with target audiences to enhance brand awareness and market positioning.\nCollaborated with clients to translate marketing goals into data-driven design solutions that support campaign performance.\nCreated digital and print marketing materials, including social media assets and promotional content to drive audience engagement and brand consistency across marketing channels."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "résumé",
+    "section": "SKILLS",
+    "text": "SKILLS\nSkills: R programming, SQL, Tableau, Google Analytics, Google Ads, SEO, Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Figma, WordPress.\nLanguages: English, Spanish."
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "résumé",
+    "section": "Certifications",
+    "text": "Certifications\nGlendale Community College\nGraphic Design Certificate, December 2022.\nGoogle\nGoogle Analytics Certificate, February 2026.\nHubSpot\nEmail Marketing Certificate, October 2024.\nGoogle\nUX Design Certificate, September 2022."
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "This project was in collaboration with NCMA-SGV, where website performance using Google Analytics 4 data was analyzed. The dataset was exported into BigQuery, where it was queried to identify user behavior patterns, traffic sources, and engagement metrics. The project also involved exploratory data analysis in R  and an interactive Looker Studio dashboard to visualize key insights. The final deliverable provided stakeholders with a clear view of website performance across dimensions such as traffic channels, device types, geographic distribution, and engagement trends over time.\n\n\n\n\nAnalyze GA4 data to identify meaningful insights about user behavior, engagement trends, and traffic sources in order to better understand overall website performance.\nBuild an efficient data workflow using BigQuery and r programming that enables querying, transformation, and reporting of key metrics\nDesign an interactive dashboard that allows stakeholders to easily evaluate KPIs and make informed data-driven decisions.\n\n\n\n\n\nConducted exploratory and statistical analysis in R by connecting to BigQuery and using packages like bigrquery, DBI, dplyr, and ggplot2 to explore the data and identify patterns and trends over time.\nBuilt an interactive Looker Studio dashboard to display key metrics like sessions, engagement rate, traffic sources in a visually clear format."
+  },
+  {
     "objectID": "marketing-analytics.html#ncma-sgv",
     "href": "marketing-analytics.html#ncma-sgv",
     "title": "Marketing Analytics",
     "section": "",
     "text": "This project was in collaboration with NCMA-SGV, where website performance using Google Analytics 4 data was analyzed. The dataset was exported into BigQuery, where it was queried to identify user behavior patterns, traffic sources, and engagement metrics. The project also involved exploratory data analysis in R  and an interactive Looker Studio dashboard to visualize key insights. The final deliverable provided stakeholders with a clear view of website performance across dimensions such as traffic channels, device types, geographic distribution, and engagement trends over time.\n\n\n\n\nAnalyze GA4 data to identify meaningful insights about user behavior, engagement trends, and traffic sources in order to better understand overall website performance.\nBuild an efficient data workflow using BigQuery and r programming that enables querying, transformation, and reporting of key metrics\nDesign an interactive dashboard that allows stakeholders to easily evaluate KPIs and make informed data-driven decisions.\n\n\n\n\n\nConducted exploratory and statistical analysis in R by connecting to BigQuery and using packages like bigrquery, DBI, dplyr, and ggplot2 to explore the data and identify patterns and trends over time.\nBuilt an interactive Looker Studio dashboard to display key metrics like sessions, engagement rate, traffic sources in a visually clear format."
+  },
+  {
+    "objectID": "marketing-analytics.html#ncma-sgv-revealjs-presentation",
+    "href": "marketing-analytics.html#ncma-sgv-revealjs-presentation",
+    "title": "Marketing Analytics",
+    "section": "NCMA-SGV Revealjs Presentation",
+    "text": "NCMA-SGV Revealjs Presentation"
   },
   {
     "objectID": "marketing-analytics.html#nike-marketing-campaign-performance-dashboard",
@@ -238,45 +105,10 @@
     "text": "Nike Marketing Campaign Performance Dashboard\nThis project was completed as part of coursework using a simulated Nike marketing dataset to analyze campaign performance across multiple channels. The dataset included key metrics such as impressions, clicks, conversions, ad spend, revenue, ROI, and customer acquisition cost (CAC).\nUsing Tableau, I developed an interactive dashboard to evaluate campaign effectiveness across dimensions like region, social media platform, and device type. The analysis highlighted how different campaigns performed in terms of profitability, conversions, and marketing spend which helped provide an in-depth overview of the campaign’s digital marketing performance.\n\nThe Goals\n\nAnalyze campaign performance data to understand how marketing efforts impact revenue, ROI, and customer acquisition across different channels and regions.\nIdentify high-performing campaigns, platforms, and device types by comparing key metrics such as conversion rate, CAC, and ROI.\nDesign an interactive Tableau dashboard that clearly communicates campaign performance insights.\n\n\n\nMy Role & Responsibilities\n\nBuilt an interactive Tableau dashboard to visualize campaign performance metrics, including ROI, CAC, conversion rates, and revenue across multiple dimensions\nAnalyzed the dataset to identify key trends, patterns, and performance differences across campaigns, regions, and marketing platforms\nInterpreted findings and developed actionable recommendations to improve marketing effectiveness based on data insights"
   },
   {
-    "objectID": "resume/resume.html",
-    "href": "resume/resume.html",
-    "title": "Roxana Rodriguez",
-    "section": "",
-    "text": "education &lt;- tribble(\n  ~what, ~when, ~with, ~where,\n  \"M.S. Digital Marketing and Analytics\", \"August 2026\", \"California Polytechnic University, Pomona\", \"Pomona, CA\",\n  \"B.A. Psychology\", \"December 2019\", \"California State University, Northridge\", \"Northridge, CA\"\n)\n\ndetailed_entries(\n  data = education,\n  what = what,\n  when = when,\n  with = with,\n  where = where\n)\n\nWarning: Detailed entry formatter is not defined for this output format.\n\n\n# A tibble: 2 × 5\n  what                                 when          with            where why  \n  &lt;chr&gt;                                &lt;chr&gt;         &lt;chr&gt;           &lt;chr&gt; &lt;lis&gt;\n1 M.S. Digital Marketing and Analytics August 2026   California Pol… Pomo… &lt;chr&gt;\n2 B.A. Psychology                      December 2019 California Sta… Nort… &lt;chr&gt;"
-  },
-  {
-    "objectID": "resume/resume.html#education",
-    "href": "resume/resume.html#education",
-    "title": "Roxana Rodriguez",
-    "section": "",
-    "text": "education &lt;- tribble(\n  ~what, ~when, ~with, ~where,\n  \"M.S. Digital Marketing and Analytics\", \"August 2026\", \"California Polytechnic University, Pomona\", \"Pomona, CA\",\n  \"B.A. Psychology\", \"December 2019\", \"California State University, Northridge\", \"Northridge, CA\"\n)\n\ndetailed_entries(\n  data = education,\n  what = what,\n  when = when,\n  with = with,\n  where = where\n)\n\nWarning: Detailed entry formatter is not defined for this output format.\n\n\n# A tibble: 2 × 5\n  what                                 when          with            where why  \n  &lt;chr&gt;                                &lt;chr&gt;         &lt;chr&gt;           &lt;chr&gt; &lt;lis&gt;\n1 M.S. Digital Marketing and Analytics August 2026   California Pol… Pomo… &lt;chr&gt;\n2 B.A. Psychology                      December 2019 California Sta… Nort… &lt;chr&gt;"
-  },
-  {
-    "objectID": "resume/resume.html#experience",
-    "href": "resume/resume.html#experience",
-    "title": "Roxana Rodriguez",
-    "section": "Experience",
-    "text": "Experience\n\nexperience &lt;- tribble(\n  ~what, ~when, ~with, ~details,\n  \"Data Management Coordinator\", \"2025 - Present\", \"A\",\n  paste(\n    \"Entered and managed community health assessment data to ensure accuracy and readiness for analysis.\",\n    \"Performed data cleaning and transformation to standardize datasets, resolve inconsistencies, and improve overall data quality.\",\n    \"Analyzed outreach and assessment data to identify trends, patterns, and insights related to community health needs and program effectiveness.\",\n    \"Developed data visualizations and summary reports to communicate key findings to internal teams and support decision-making.\",\n    sep = \"\\n\"\n  ),\n  \n  \"Freelance Graphic Designer\", \"2022 - Present\", \"Roxana Rodriguez\",\n  paste(\n    \"Designed and developed SEO-optimized websites that increased organic traffic, user engagement, and conversion rates.\",\n    \"Built strategic brand identities aligned with target audiences to enhance brand awareness and market positioning.\",\n    \"Collaborated with clients to translate marketing goals into data-driven design solutions that support campaign performance.\",\n    \"Created digital and print marketing materials, including social media assets and promotional content to drive audience engagement and brand consistency across marketing channels.\",\n    sep = \"\\n\"\n  )\n)\n\ndetailed_entries(\n  data = experience,\n  what = what,\n  when = when,\n  with = with,\n  why = details\n)\n\nWarning: Detailed entry formatter is not defined for this output format.\n\n\n# A tibble: 2 × 5\n  what                        when           with             where why      \n  &lt;chr&gt;                       &lt;chr&gt;          &lt;chr&gt;            &lt;chr&gt; &lt;list&gt;   \n1 Data Management Coordinator 2025 - Present A                &lt;NA&gt;  &lt;chr [1]&gt;\n2 Freelance Graphic Designer  2022 - Present Roxana Rodriguez &lt;NA&gt;  &lt;chr [1]&gt;"
-  },
-  {
-    "objectID": "resume/resume.html#skills",
-    "href": "resume/resume.html#skills",
-    "title": "Roxana Rodriguez",
-    "section": "Skills",
-    "text": "Skills\n\nskills &lt;- tribble(\n  ~what, ~with,\n  \"Skills\", \"R programming, SQL, Tableau, HTML, CSS, Google Analytics, Google Ads, SEO, Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Figma, WordPress\",\n  \"Languages\", \"English, Spanish\"\n)\n\nbrief_entries(\n  data = skills,\n  what = what,\n  with = with\n)\n\nWarning: Brief entry formatter is not defined for this output format.\n\n\n# A tibble: 2 × 3\n  what      when  with                                                          \n  &lt;chr&gt;     &lt;chr&gt; &lt;chr&gt;                                                         \n1 Skills    &lt;NA&gt;  R programming, SQL, Tableau, HTML, CSS, Google Analytics, Goo…\n2 Languages &lt;NA&gt;  English, Spanish"
-  },
-  {
-    "objectID": "resume/resume.html#certifications",
-    "href": "resume/resume.html#certifications",
-    "title": "Roxana Rodriguez",
-    "section": "Certifications",
-    "text": "Certifications\n\ncertifications &lt;- tribble(\n  ~what, ~when, ~with,\n  \"Graphic Design Certificate\", \"December 2022\", \"Glendale Community College\",\n  \"Google Analytics Certificate\", \"February 2026\", \"Google\",\n  \"Email Marketing Certificate\", \"October 2024\", \"HubSpot\",\n  \"UX Design Certificate\", \"September 2022\", \"Google\"\n)\n\ndetailed_entries(\n  data = certifications,\n  what = what,\n  when = when,\n  with = with\n)\n\nWarning: Detailed entry formatter is not defined for this output format.\n\n\n# A tibble: 4 × 5\n  what                         when           with                   where why  \n  &lt;chr&gt;                        &lt;chr&gt;          &lt;chr&gt;                  &lt;chr&gt; &lt;lis&gt;\n1 Graphic Design Certificate   December 2022  Glendale Community Co… &lt;NA&gt;  &lt;chr&gt;\n2 Google Analytics Certificate February 2026  Google                 &lt;NA&gt;  &lt;chr&gt;\n3 Email Marketing Certificate  October 2024   HubSpot                &lt;NA&gt;  &lt;chr&gt;\n4 UX Design Certificate        September 2022 Google                 &lt;NA&gt;  &lt;chr&gt;"
-  },
-  {
-    "objectID": "marketing-analytics.html#ncma-sgv-revealjs-presentation",
-    "href": "marketing-analytics.html#ncma-sgv-revealjs-presentation",
+    "objectID": "marketing-analytics.html#ga4-traffic-data",
+    "href": "marketing-analytics.html#ga4-traffic-data",
     "title": "Marketing Analytics",
-    "section": "NCMA-SGV Revealjs Presentation",
-    "text": "NCMA-SGV Revealjs Presentation"
+    "section": "GA4 Traffic Data",
+    "text": "GA4 Traffic Data"
   }
 ]

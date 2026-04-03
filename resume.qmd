@@ -4,14 +4,14 @@ title: "résumé "
 
 You can view a PDF version of my résumé [here](resume/resume.pdf)
 
-## Education
+## **Education**
 
 | Degree | Year | Institution |
 |------------------------|------------------------|-------------------------|
 | M.S. Digital Marketing and Analytics | August 2026 | California Polytechnic University, Pomona |
 | B.A. Psychology | December 2019 | California State University, Northridge |
 
-## Experience
+## **Experience**
 
 **AltaMed,** Data Management Coordinator
 
@@ -37,13 +37,13 @@ You can view a PDF version of my résumé [here](resume/resume.pdf)
 
 -   Created digital and print marketing materials, including social media assets and promotional content to drive audience engagement and brand consistency across marketing channels.
 
-## SKILLS
+## **SKILLS**
 
 **Skills:** R programming, SQL, Tableau, Google Analytics, Google Ads, SEO, Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Figma, WordPress.
 
 **Languages:** English, Spanish.
 
-## Certifications
+## **Certifications**
 
 **Glendale Community College**
 

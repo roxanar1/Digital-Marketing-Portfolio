@@ -20,5 +20,5 @@ format:
       - cosmo
       - theme.scss
     toc: true
-    # include-in-header: includes/gtm-head.html
-    # include-before-body: includes/gtm-body.html
+    include-in-header: includes/gtm-head.html
+    include-before-body: includes/gtm-body.html
