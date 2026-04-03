@@ -9,21 +9,21 @@
 }
 
 .skill {
-  background: #F3F4FE;            /* light blue */
-  color: #32174D;                 /* darker blue text */
+  background: #f0e8de;            /* light blue */
+  color: #895b2a;                 /* darker blue text */
   padding: 16px;
   border-radius: 10px; 
-  border: 1px solid #EFF0FE;
+  border: 1px solid #895b2a;
   text-align: center;
   font-weight: 600;
 }
 
 h1, h2, h3 {
-  color: #32174D;
+  color: #296774;
 }
 
 body {
-  background-color: #FAF8FE; 
+  background-color: #fcf8f5; 
 }
 
 
@@ -31,34 +31,72 @@ body {
 
 /* Navbar background */
 .navbar {
-  background-color: #32174D !important;
+  background-color: #296774 !important;
 }
 
 /* Default links (normal state) */
 .navbar .nav-link {
-  color: #ffffff !important;
+  color: #f0e8de !important;
 }
 
 /* Brand (your name) */
 .navbar-brand {
-  color: #ffffff !important;
+  color: #f0e8de !important;
 }
 
 /* Hover state */
 .navbar .nav-link:hover {
-  color: #ffffff !important;
+  color: #f0e8de !important;
   opacity: 0.8;
 }
 
 /* Active page */
 .navbar .nav-link.active {
-  color: #ffffff !important;
+  color: #f0e8de !important;
   font-weight: 600;
 }
 
 /* Search icon */
 .navbar .aa-SubmitIcon {
-  color: white !important;
-  fill: white !important;
+  color: #f0e8de !important;
+  fill: #f0e8de !important;
+}
+
+$link-color: #296774;
+$link-hover: #348597;
+$link-active: #1f4f59;
+$link-visited: #5f7f86;
+
+a {
+  color: $link-color;
+
+  &:hover {
+    color: $link-hover;
+  }
+
+  &:active {
+    color: $link-active;
+  }
+
+  &:visited {
+    color: $link-visited;
+  }
+}
+
+#TOC {
+  a {
+    color: #296774;
+    text-decoration: none;
+
+    &:hover {
+      color: #348597 !important;
+      text-decoration: underline;
+    }
+
+    &.active {
+      color: #1f4f59 !important;
+      text-decoration: none;
+    }
+  }
 }
 

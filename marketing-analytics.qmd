@@ -16,13 +16,13 @@ This project was in collaboration with NCMA-SGV, where website performance using
 
 -   Design an interactive dashboard that allows stakeholders to easily evaluate KPIs and make informed data-driven decisions.
 
-### My Role & Responsibilities:
+### **My Role & Responsibilities**:
 
 -   Conducted exploratory and statistical analysis in R by connecting to BigQuery and using packages like bigrquery, DBI, dplyr, and ggplot2 to explore the data and identify patterns and trends over time.
 
 -   Built an interactive Looker Studio dashboard to display key metrics like sessions, engagement rate, traffic sources in a visually clear format. 
 
-## NCMA-SGV Revealjs Presentation
+## **NCMA-SGV Revealjs Presentation**
 
 ## **Nike Marketing Campaign Performance Dashboard**
 
@@ -30,7 +30,7 @@ This project was completed as part of coursework using a simulated Nike marketin
 
 Using Tableau, I developed an interactive dashboard to evaluate campaign effectiveness across dimensions like region, social media platform, and device type. The analysis highlighted how different campaigns performed in terms of profitability, conversions, and marketing spend which helped provide an in-depth overview of the campaign’s digital marketing performance.
 
-### The Goals
+### **The Goals**
 
 -   Analyze campaign performance data to understand how marketing efforts impact revenue, ROI, and customer acquisition across different channels and regions.
 
@@ -38,7 +38,7 @@ Using Tableau, I developed an interactive dashboard to evaluate campaign effecti
 
 -   Design an interactive Tableau dashboard that clearly communicates campaign performance insights.
 
-### My Role & Responsibilities
+### **My Role & Responsibilities**
 
 -   Built an interactive Tableau dashboard to visualize campaign performance metrics, including ROI, CAC, conversion rates, and revenue across multiple dimensions
 
@@ -48,4 +48,4 @@ Using Tableau, I developed an interactive dashboard to evaluate campaign effecti
 
 ![](images/Nike-Dashboard.png)
 
-## GA4 Traffic Data
+## **GA4 Traffic Data**

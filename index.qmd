@@ -12,7 +12,7 @@ I’m a digital marketing professional who blends creativity with data-driven st
 :::
 :::::
 
-## Technical Skills
+## **Technical Skills**
 
 <div class="skills-grid">
   <div class="skill">R Programming</div>
@@ -26,7 +26,7 @@ I’m a digital marketing professional who blends creativity with data-driven st
   <div class="skill">Figma</div>
 </div>
 
-## Let's Connect
+## **Let's Connect**
 
 You can [email me](mailto:roxanarodriguezquevedo@gmail.com)
 
