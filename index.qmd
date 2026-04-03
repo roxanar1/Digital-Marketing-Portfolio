@@ -1,0 +1,33 @@
+---
+title: "Hi, I’m Roxana Rodriguez!"
+---
+
+:::: {.columns .items-center}
+::: {.column width="30%"}
+![](images/profile-picture.jpg){width="90%" style="border-radius: 50%;"}
+:::
+
+::: {.column width="70%" style="padding-left: 3rem;"}
+I’m a digital marketing professional who blends creativity with data-driven strategy to turn insights into impactful results. My work focuses on analytics, SEO, and user behavior to create meaningful online experiences that drive engagement and growth
+:::
+:::::
+
+## Technical Skills
+
+<div class="skills-grid">
+  <div class="skill">R Programming</div>
+  <div class="skill">Tableau</div>
+  <div class="skill">SEO</div>
+  <div class="skill">Google Anlytics</div>
+  <div class="skill">InDesign</div>
+  <div class="skill">Illustrator</div>
+  <div class="skill">Photoshop</div>
+  <div class="skill">Premiere Pro</div>
+  <div class="skill">Figma</div>
+</div>
+
+## Let's Connect
+
+You can [email me](mailto:roxanarodriguezquevedo@gmail.com)
+
+------------------------------------------------------------------------

@@ -1,0 +1,64 @@
+
+/*-- scss:rules --*/
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin-top: 1.5rem;
+}
+
+.skill {
+  background: #F3F4FE;            /* light blue */
+  color: #32174D;                 /* darker blue text */
+  padding: 16px;
+  border-radius: 10px; 
+  border: 1px solid #EFF0FE;
+  text-align: center;
+  font-weight: 600;
+}
+
+h1, h2, h3 {
+  color: #32174D;
+}
+
+body {
+  background-color: #FAF8FE; 
+}
+
+
+/*-- Navbar --*/
+
+/* Navbar background */
+.navbar {
+  background-color: #32174D !important;
+}
+
+/* Default links (normal state) */
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+/* Brand (your name) */
+.navbar-brand {
+  color: #ffffff !important;
+}
+
+/* Hover state */
+.navbar .nav-link:hover {
+  color: #ffffff !important;
+  opacity: 0.8;
+}
+
+/* Active page */
+.navbar .nav-link.active {
+  color: #ffffff !important;
+  font-weight: 600;
+}
+
+/* Search icon */
+.navbar .aa-SubmitIcon {
+  color: white !important;
+  fill: white !important;
+}
+
