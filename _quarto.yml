@@ -17,9 +17,6 @@ website:
       - href: resume.qmd
         text: Resume
 
-metadata:
-  description: "Digital Marketing portfolio featuring website design, and data visualization projects"
-
 format:
   html:
     theme:
