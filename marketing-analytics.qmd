@@ -6,7 +6,7 @@ title: "Marketing Analytics"
 
 ### **Project Overview:**
 
-This project was in collaboration with NCMA-SGV, where website performance using Google Analytics 4 data was analyzed. The dataset was exported into BigQuery, where it was queried to identify user behavior patterns, traffic sources, and engagement metrics. The project also involved exploratory data analysis in R  and an interactive Looker Studio dashboard to visualize key insights. The final deliverable provided stakeholders with a clear view of website performance across dimensions such as traffic channels, device types, geographic distribution, and engagement trends over time.
+This team project was in collaboration with NCMA-SGV, where website performance using Google Analytics 4 data was analyzed. The dataset was exported into BigQuery, where it was queried to identify user behavior patterns, traffic sources, and engagement metrics. The project also involved exploratory data analysis in R  and an interactive Looker Studio dashboard to visualize key insights. The final deliverable provided stakeholders with a clear view of website performance across dimensions such as traffic channels, device types, geographic distribution, and engagement trends over time.
 
 ### **The Goals:**
 
@@ -23,6 +23,14 @@ This project was in collaboration with NCMA-SGV, where website performance using
 -   Built an interactive Looker Studio dashboard to display key metrics like sessions, engagement rate, traffic sources in a visually clear format. 
 
 ## **NCMA-SGV Revealjs Presentation**
+
+<iframe 
+  src=" https://roxanar1.github.io/portfolio-revealjs-presentation/" 
+  width="100%" 
+  height="600px" 
+  style="border:none;">
+</iframe>
+
 
 ## **Nike Marketing Campaign Performance Dashboard**
 
@@ -49,3 +57,13 @@ Using Tableau, I developed an interactive dashboard to evaluate campaign effecti
 ![](images/Nike-Dashboard.png)
 
 ## **GA4 Traffic Data**
+
+![](images/overview.png)
+
+![](images/acquisition.png)
+
+### **Insights**
+
+These GA4 reports are from this portfolio website, they show very low traffic over the month of April and early May, with a total of 2 users coming from referral sources. Activity is also minimal with just a couple of spikes on specific days and no returning users or conversions recorded.
+
+Engagement is quite low, averaging about 11 seconds per user, and while there were 30 events tracked, none of them led to key events or meaningful actions. These findings suggest the website is still in its early stage, with limited traffic, and little evidence of deeper user interaction so far.

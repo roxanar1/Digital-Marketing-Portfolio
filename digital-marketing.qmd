@@ -34,9 +34,11 @@ As part of a collaborative team project with the Trauma Resource Institute. The 
 
 ![](images/Garcia-Research-Landing-Page.png)
 
+[View MAS Scorecard Website](https://www.mascorecard.com/)
+
 ### **Project Overview:**
 
-This project was completed as part of the culminating experience project in collaboration with Garcia Research. The project focused on the Marketing Access Score (MAS), a framework that evaluates how well B2C websites support Spanish language accessibility. The project involved designing a website that clearly communicates the value of the MAS research and promote it to organizations interested in improving their DEI efforts.
+This team project was completed as part of the culminating experience project in collaboration with Garcia Research. The project focused on the Marketing Access Score (MAS), a framework that evaluates how well B2C websites support Spanish language accessibility. The project involved designing a website that clearly communicates the value of the MAS research and promote it to organizations interested in improving their DEI efforts.
 
 ### **The Goals:**
 

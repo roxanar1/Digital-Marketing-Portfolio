@@ -13,7 +13,7 @@ You can view a PDF version of my résumé [here](resume/resume.pdf)
 
 ## **Experience**
 
-**AltaMed,** Data Management Coordinator
+**AltaMed,** Data Coordinator
 
 *\[2025 - Present\]*
 
@@ -23,7 +23,7 @@ You can view a PDF version of my résumé [here](resume/resume.pdf)
 
 -   Analyzed outreach and assessment data to identify trends, patterns, and insights related to community health needs and program effectiveness.
 
--   Developed data visualizations and summary reports to communicate key findings to internal teams and support decision-making.
+-   Developed data visualizations and summary reports to communicate key findings to internal teams.
 
 **Roxana Rodriguez,** Freelance Graphic Designer
 
@@ -47,16 +47,16 @@ You can view a PDF version of my résumé [here](resume/resume.pdf)
 
 **Glendale Community College**
 
-Graphic Design Certificate, *December 2022.*
+Graphic Design Certificate, *2022.*
 
 **Google**
 
-Google Analytics Certificate, *February 2026.*
+Google Analytics Certificate, *2026.*
 
 **HubSpot**
 
-Email Marketing Certificate, *October 2024.*
+Email Marketing Certificate, *2024.*
 
 **Google**
 
-UX Design Certificate, *September 2022.*
+UX Design Certificate, *2022.*

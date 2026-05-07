@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - googlec569129479a87143.html
+    - robots.txt
 
 website:
   title: "Roxana Rodriguez"
@@ -22,3 +25,4 @@ format:
     toc: true
     include-in-header: includes/gtm-head.html
     include-before-body: includes/gtm-body.html
+
