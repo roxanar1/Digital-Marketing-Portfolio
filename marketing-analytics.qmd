@@ -34,6 +34,8 @@ This team project was in collaboration with NCMA-SGV, where website performance 
 
 ## **Nike Marketing Campaign Performance Dashboard**
 
+### **Project Overview:**
+
 This project was completed as part of coursework using a simulated Nike marketing dataset to analyze campaign performance across multiple channels. The dataset included key metrics such as impressions, clicks, conversions, ad spend, revenue, ROI, and customer acquisition cost (CAC).
 
 Using Tableau, I developed an interactive dashboard to evaluate campaign effectiveness across dimensions like region, social media platform, and device type. The analysis highlighted how different campaigns performed in terms of profitability, conversions, and marketing spend which helped provide an in-depth overview of the campaign’s digital marketing performance.
